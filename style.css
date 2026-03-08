@@ -1,0 +1,23 @@
+        body {
+            margin: 0 10px;
+            padding: 10;
+            background-color: #75caeb;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+        .navigationbar {
+            background-color: #2399c8;
+            
+        }
+
+        .navigationbar a {
+            margin-right: 40px;
+            text-decoration: none;
+            color: #000000;
+            font-size: 30px;
+            padding-right: 10px;
+        }
+
+        .content {
+            padding: 50px;
+        }
